@@ -1,3 +1,6 @@
 Subir archivo git prueba
 1234
+<<<<<<< HEAD
 ksmdaka
+=======
+>>>>>>> 50c5f7d8f2f07d0e33de3ddc80d010dca8f47156
